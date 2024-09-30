@@ -1,7 +1,8 @@
 ## Hi! I'm Pedro Augusto
 
-- 🎮 Game developer
-- 📓 Student at [Feevale](https://www.feevale.br/graduacao/jogos-digitais)
+- 🎮 Unity Developer & Software Engineer
+- 📓 Game Development Student at [Feevale](https://www.feevale.br/graduacao/jogos-digitais)
+- 📓 Software Engineering Student at [Estácio](https://estacio.br/cursos/graduacao/engenharia-de-software)
 
 ### Social media  & portfolio
 
