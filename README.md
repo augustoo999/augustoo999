@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <a href="pbernardoguilherme@gmail.com" target="_blank">
+  <a href="[pbernardoguilherme@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqZhvGNttCzQZGHNxHDCNchQBHbzmwdkfrcTzpWskDdwXKcFZctwrmLcCTPrRcGkDghSNq)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/augustoop/" target="_blank">
